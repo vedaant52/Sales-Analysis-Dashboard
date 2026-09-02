@@ -57,11 +57,6 @@ Power BI Visualizations
       ↓
 Interactive Sales Dashboard
 
-
-## 📊 Dashboard Preview
-
-
-
 ## 🔍 Key Insights
 
 The dashboard helps identify:
